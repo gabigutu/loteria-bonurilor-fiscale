@@ -1,8 +1,8 @@
 # loteria-bonurilor-fiscale
-## In English: romanian-receipt-lottery
+--romanian-receipt-lottery (English)--
 This repository contains the results of the Romanian Receipt Lottery (called "Loteria Bonurilor Fiscale") contests organised by the Romanian Ministry of Finance in machine-readable format.
 
-## Despre
+## About
 This repository was created to provide application developers the results of the contests organized by the Romanian Ministry of Finance in a machine-readable format to use in their software programs.
 
 The repository will be constantly updated with the results of the new draws. As other formats will be considered relevant, they will be added to the repository.
