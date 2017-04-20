@@ -18,5 +18,5 @@ Any person with Romanian citizenship can participate in the lottery. This can be
 Only receipts with amounts between 1 and 999.99 lei participate in the contests.
 
 ## Usage
-Further details can be obtained from [the website of the Romanian Ministry of Finance, *Receipt Lottery* section] (http://www.mfinante.ro/loteriabonurilor.html?pagina=loteriabonurilor "Receipt Lottery").
+Further details can be obtained from [the website of the Romanian Ministry of Finance, *Receipt Lottery* section](http://www.mfinante.ro/loteriabonurilor.html?pagina=loteriabonurilor "Receipt Lottery").
 
